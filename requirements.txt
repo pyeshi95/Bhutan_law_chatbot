@@ -1,0 +1,8 @@
+langchain
+chromadb
+sentence-transformers
+pypdf
+streamlit
+transformers
+torch
+accelerate
